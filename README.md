@@ -1,4 +1,4 @@
-# Supermarket-stores-sales-analysis
+# Supermarket Stores Sales Analysis
 Supermarket store branches sales analysis
 Analyzing Stores sales and its dependence on stores area and daily customercount</br>
 Analyzing the performances of stores in the past on basis of which will try to rectify defects as well as to leverage the positives. Who doesn't want to increase their profits right</br>
